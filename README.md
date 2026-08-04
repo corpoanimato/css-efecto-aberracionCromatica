@@ -1,6 +1,6 @@
-\# css-windows98
+\# css-efecto-aberracion-cromática
 
-> Preview del efecto aberración cromática en ventana y titulos.
+> Preview del efecto aplicado en contornos de ventana y barra de títulos.
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-Ventanas estilo Windows98, con detalle de estilo tipo separación de colores en canales RGB. Practica: efectos en CSS
+Ventanas estilo Windows98, con detalles visuales tipo separación de colores en canales RGB. Practica: efectos en CSS
 
 
 
